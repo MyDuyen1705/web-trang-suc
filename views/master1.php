@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="<?= BASE_URL ?>/MVC/public/css/style.css" />
     <link rel="stylesheet" href="<?= BASE_URL ?>/MVC/public/css/responsive.css">
     <link rel="stylesheet" href="<?= BASE_URL ?>/MVC/public/fontawesome/css/all.min.css">
-    <link rel="" href="<?= BASE_URL ?>/MVC/public/themify-icons/themify-icons.css" />
+    <link rel="stylesheet" href="<?= BASE_URL ?>/MVC/public/themify-icons/themify-icons.css" />
     <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/jquery.validate.min.js"></script>
     <script src=" https://unpkg.com/sweetalert/dist/sweetalert.min.js "> </script>
