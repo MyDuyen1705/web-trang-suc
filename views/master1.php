@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Meta Coffee | Trịnh Mỹ Duyên</title>
     <link rel="shortcut icon" href="<?= BASE_URL ?>/MVC/public/images/icon_logo.png" />
-    <link rel="" href="<?= BASE_URL ?>/MVC/public/css/grid.css" />
+    <link rel="stylesheet" href="<?= BASE_URL ?>/MVC/public/css/grid.css" />
     <link rel="stylesheet" href="<?= BASE_URL ?>/MVC/public/css/base.css" />
     <link rel="stylesheet" href="<?= BASE_URL ?>/MVC/public/css/style.css" />
     <link rel="stylesheet" href="<?= BASE_URL ?>/MVC/public/css/responsive.css">
